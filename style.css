@@ -18,3 +18,18 @@ body{
     th{
     background: rgb(60, 99, 60);
     }
+    *{
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;;
+    }
+    .sobre_mim{
+        display:flex;
+    }
+    .detalhes{
+        margin-left: 10px;
+    }
+img{
+        width: 200px;
+        border-radius: 50%;
+    }
